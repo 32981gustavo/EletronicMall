@@ -1,0 +1,10 @@
+C:\Users\guga3\source\repos\Eletronic Mall\bin\Debug\Eletronic Mall.exe.config
+C:\Users\guga3\source\repos\Eletronic Mall\bin\Debug\Eletronic Mall.exe
+C:\Users\guga3\source\repos\Eletronic Mall\bin\Debug\Eletronic Mall.pdb
+C:\Users\guga3\source\repos\Eletronic Mall\obj\Debug\Eletronic Mall.csproj.AssemblyReference.cache
+C:\Users\guga3\source\repos\Eletronic Mall\obj\Debug\Eletronic_Mall.Form1.resources
+C:\Users\guga3\source\repos\Eletronic Mall\obj\Debug\Eletronic_Mall.Properties.Resources.resources
+C:\Users\guga3\source\repos\Eletronic Mall\obj\Debug\Eletronic Mall.csproj.GenerateResource.cache
+C:\Users\guga3\source\repos\Eletronic Mall\obj\Debug\Eletronic Mall.csproj.CoreCompileInputs.cache
+C:\Users\guga3\source\repos\Eletronic Mall\obj\Debug\Eletronic Mall.exe
+C:\Users\guga3\source\repos\Eletronic Mall\obj\Debug\Eletronic Mall.pdb
